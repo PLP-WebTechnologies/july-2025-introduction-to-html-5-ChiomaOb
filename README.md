@@ -6,6 +6,8 @@ This assignment will help you solidify your understanding of modern HTML5 struct
 
 ## Objective
 
+http://127.0.0.1:5500/
+
 Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
 
 ## Guidelines
